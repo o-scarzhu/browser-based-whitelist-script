@@ -8,3 +8,5 @@ make a list of sentences or phrases in the buzzwords.txt. It will iterate throug
 delays in between messages can be adjusted on the fly in the credentials.json. It will randomly choose and number between delay1 and delay2 values
 
 You will need puppeteer for this script to work
+
+Added a SQL DB for authentication purposes. Remove the SQL code to bypass the authenticating key event
